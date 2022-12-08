@@ -1,2 +1,2 @@
-# Dart-Variables-And-Lists
-criando e manipulando variáveis e listas
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
