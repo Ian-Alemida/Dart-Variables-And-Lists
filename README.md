@@ -1,3 +1,2 @@
 <h1 align="center"> Dart: criando e manipulando variáveis e listas </h1>
-
-![studying programming](https://user-images.githubusercontent.com/110541053/206465509-7d33c1b6-6c68-442d-972b-ca1196dbc7c5.jpeg)
+![Dart Studying programming](https://user-images.githubusercontent.com/110541053/206465991-5e14f924-6339-4f3c-b654-a043d4147be5.png)
